@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1416844011 source:h:\documente\projects\buzas laura\siruri\main.cpp
+	<iostream>
+	<cstring>
+	<cctype>
+

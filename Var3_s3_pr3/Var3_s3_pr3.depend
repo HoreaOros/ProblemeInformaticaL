@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1418054089 source:h:\documente\projects\buzas laura\var3_s3_pr3\main.cpp
+	<iostream>
+	<fstream>
+

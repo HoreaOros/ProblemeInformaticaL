@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1416238170 source:h:\documente\projects\buzas laura\bac_v1\main.cpp
+	<iostream>
+	<fstream>
+
